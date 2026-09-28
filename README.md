@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Title	Hi 👋, I'm Ali Haider<br>	Full-Stack Software Engineer from Islamabad, Pakistan<br><br>Work section<br><br><br>Currently working on	Scalable full-stack web applications<br>Currently learning	TypeScript, .NET and system design<br>Looking to collaborate on	Web projects, internships and open-source<br>Looking for help with	Advanced system design and cloud deployment<br>Ask me about	React, Node.js, databases, UI/UX and team leadership<br>Fun fact	I take an idea from a Figma wireframe to a live deployment on my own<br><br>Social usernames<br><br>Field	Enter<br>GitHub	HAIDU911<br>LinkedIn	alihaider-3615513aa<br>Email	alihaiderabc43@gmail.com
+<br>Title	Hi 👋, I'm Ali Haider<br>	Full-Stack Software Engineer from Islamabad, Pakistan<br><br>Work section<br><br><br>Currently working on	Scalable full-stack web applications<br>Currently learning	TypeScript, .NET and system design<br>Looking to collaborate on	Web projects, internships and open-source<br>Looking for help with	Advanced system design and cloud deployment<br>Ask me about	React, Node.js, databases, UI/UX and team leadership<br>Fun fact	I take an idea from a Figma wireframe to a live deployment on my own<br><br>Social usernames<br><br><br>GitHub	HAIDU911<br>LinkedIn	alihaider-3615513aa<br>Email	alihaiderabc43@gmail.com
 
 
 ## 🌐 Socials:
