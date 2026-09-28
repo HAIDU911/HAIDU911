@@ -4,9 +4,10 @@
 
 ### Full-Stack Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A828&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+enterprise+apps;MERN+%7C+PERN+%7C+Next.js+%7C+Vue.js;Java+%7C+C%2B%2B+%7C+C%23+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A828&center=true&vCenter=true&width=750&height=40&lines=Building+scalable+web+%26+enterprise+apps;MERN+%7C+PERN+%7C+Next.js+%7C+Vue.js;Java+%7C+C%2B%2B+%7C+C%23+%7C+Python)](https://github.com/HAIDU911)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HAIDU911&color=F7A828&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/HAIDU911.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=F7A828&labelColor=181717)](https://hits.sh/github.com/HAIDU911/)
+[![Followers](https://img.shields.io/github/followers/HAIDU911?style=for-the-badge&logo=github&label=FOLLOWERS&color=F7A828&labelColor=181717)](https://github.com/HAIDU911?tab=followers)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihaiderabc43@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alihaider-3615513aa)
@@ -83,14 +84,11 @@ I'm a full-stack engineer who works across the entire product lifecycle, from wi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HAIDU911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAIDU911&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img src="https://streak-stats.demolab.com/?user=HAIDU911&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HAIDU911&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
